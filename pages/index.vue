@@ -6,13 +6,14 @@
     <section
       class="md:flex md:items-stretch rounded-lg overflow-hidden shadow-2xl bg-white"
     >
-      <picture class="flex-1">
-        <img
-          src="https://images.unsplash.com/photo-1541427468627-a89a96e5ca1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+      <div class="flex-1">
+        <ix-img
+          src="/photo-1541427468627-a89a96e5ca1d"
+          sizes="(min-width: 1152px) 620px, (min-width: 922px) 420px, (min-width: 692px) 364px, (min-width: 600px) 600px, 100vw"
           alt="A cool train"
-          class="object-cover h-full w-full"
+          class="object-cover h-full w-full flex-1"
         />
-      </picture>
+      </div>
       <article class="flex-1">
         <div class="p-8 flex flex-col h-full justify-between space-y-8">
           <div class="space-y-8">
@@ -47,6 +48,8 @@
 </template>
 
 <script>
+import VueImgix from "~/plugins/vue-imgix.js";
+
 export default {};
 </script>
 
