@@ -1,10 +1,7 @@
-# prismic-demo-basic
+# nuxt-demo-basic
 
-This simple demo is meant to showcase how easy it is to get started and integrate Prismic to an existing website. It uses Nuxt.js but the process is similar using other frameworks.
+This is a basic Nuxt demo starter that I (Tom Dale) uses when starting various projects. It has the imgix-vue SDK already started, a Navbar, and has several component templates that I often use already created.
 
-- [✨ &nbsp;Try Prismic](https://prismic.io/pricing)
-- [📖 &nbsp;Prismic Nuxt documentation](https://prismic.io/docs/vuejs/getting-started/prismic-nuxt)
-- [💚 &nbsp;Prismic Nuxt Module](https://prismic.nuxtjs.org)
 
 ## Build Setup
 

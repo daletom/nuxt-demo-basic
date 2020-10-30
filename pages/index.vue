@@ -20,7 +20,7 @@
             <h1
               class="font-bold text-2xl md:text-4xl leading-snug text-orange-600"
             >
-              Experience Train Like Never Before
+              Experience a Train Like Never Before
             </h1>
             <p>
               A train is <strong>a form of rail transport</strong> consisting of
@@ -33,7 +33,7 @@
           </div>
           <div class="text-center md:text-right">
             <a
-              href="https://github.com/lihbr/prismic-demo-basic#readme"
+              href="https://github.com/daletom/nuxt-demo-basic"
               class="bg-orange-600 hover:bg-orange-700 transition-colors duration-300 ease-in-out text-white block md:inline-block px-8 py-4 font-bold rounded-lg"
               target="_blank"
               rel="noopener"
